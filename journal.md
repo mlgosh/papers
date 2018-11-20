@@ -4,6 +4,9 @@ some journal thing
 #Author: 
 Maria Lock
 
+#co-author:
+John
+
 #Intro:
 Something somthing somthing
 
