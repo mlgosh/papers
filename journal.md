@@ -15,3 +15,6 @@ Elephats are mammals (Darns, 1995)
 
 # New section
 GRIMMMMM
+
+#methodology
+Did this. Did that. Jones et al
