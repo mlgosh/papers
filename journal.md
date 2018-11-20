@@ -18,3 +18,5 @@ GRIMMMMM
 
 #methodology
 Did this. Did that. Jones et al
+
+FIGUREs
